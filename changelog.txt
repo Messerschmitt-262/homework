@@ -1,2 +1,4 @@
 ## hotfix 0.0.2 2017-12-22
 - phpinfo() was added to the index.php file
+## features-0.1.0
+- File 'test.php' was created, statement echo 'test'; was added.
